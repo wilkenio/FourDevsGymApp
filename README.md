@@ -65,7 +65,7 @@ Você pode acessar o FourDevs GymManager nos seguintes links:
 
 ## 📱 Figma
 Acesse o protótipo no Figma: <br>
-- <a href="https://www.figma.com/proto/x3W7FHYZJkkC6Y7L12FWNf/AppFourDevsGym?node-id=92-2&t=Lsr5ZXSCbprfOZa9-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1" target="_blank">Protótipo do App aluno</a>
+- <a href="https://www.figma.com/proto/x3W7FHYZJkkC6Y7L12FWNf/AppFourDevsGym?node-id=117-3&t=Xf0KwFuV0guxGyF8-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=117%3A3">Protótipo do App aluno</a>
 
 
 ## 📲 Login no Aplicativo
